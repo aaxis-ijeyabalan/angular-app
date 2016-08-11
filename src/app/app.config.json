@@ -1,0 +1,14 @@
+{
+  "appname": "angular-app",
+  "scope": "FullAccess BuyerAdmin BuyerReader",
+  "clientid": "82E5B42F-FB00-4660-B06C-4A66E2E893DC",
+  "buyerid": "test-buyer",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
